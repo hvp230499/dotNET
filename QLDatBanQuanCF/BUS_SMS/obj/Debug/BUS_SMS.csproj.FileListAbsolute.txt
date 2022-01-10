@@ -1,0 +1,9 @@
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\bin\Debug\BUS_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\bin\Debug\BUS_SMS.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\bin\Debug\DAL_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\bin\Debug\DAL_SMS.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\obj\Debug\BUS_SMS.csproj.AssemblyReference.cache
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\obj\Debug\BUS_SMS.csproj.CoreCompileInputs.cache
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\obj\Debug\BUS_SMS.csproj.CopyComplete
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\obj\Debug\BUS_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\BUS_SMS\obj\Debug\BUS_SMS.pdb

@@ -1,0 +1,6 @@
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\DAL_SMS\bin\Debug\DAL_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\DAL_SMS\bin\Debug\DAL_SMS.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\DAL_SMS\obj\Debug\DAL_SMS.csproj.CoreCompileInputs.cache
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\DAL_SMS\obj\Debug\DAL_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\DAL_SMS\obj\Debug\DAL_SMS.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\DAL_SMS\obj\Debug\DAL_SMS.csproj.AssemblyReference.cache

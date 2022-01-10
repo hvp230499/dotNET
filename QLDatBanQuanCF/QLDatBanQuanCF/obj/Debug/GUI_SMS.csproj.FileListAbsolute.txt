@@ -1,0 +1,17 @@
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\GUI_SMS.csproj.AssemblyReference.cache
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\QLDatBanQuanCF.GUI_TABLE.resources
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\QLDatBanQuanCF.Properties.Resources.resources
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\GUI_SMS.csproj.GenerateResource.cache
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\GUI_SMS.csproj.CoreCompileInputs.cache
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\QLDatBanQuanCF.exe.config
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\QLDatBanQuanCF.exe
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\QLDatBanQuanCF.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\BUS_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\BUS_SMS.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\GUI_SMS.csproj.CopyComplete
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\QLDatBanQuanCF.exe
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\QLDatBanQuanCF.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\DAL_SMS.dll
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\bin\Debug\DAL_SMS.pdb
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\QLDatBanQuanCF.GUI_Login.resources
+F:\HocTap\TieuLuan\DotNet\QLDatBanQuanCF\QLDatBanQuanCF\obj\Debug\QLDatBanQuanCF.GUI_DatBan.resources

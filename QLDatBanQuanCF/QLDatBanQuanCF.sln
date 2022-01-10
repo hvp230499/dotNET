@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_SMS", "QLDatBanQuanCF\GUI_SMS.csproj", "{8A3A4CED-B511-421D-932F-518AB670E3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_SMS", "DAL_SMS\DAL_SMS.csproj", "{DA7F9203-54EA-4AA4-B4F5-21784CE4EE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_SMS", "BUS_SMS\BUS_SMS.csproj", "{C41E8BEF-714C-4D19-A26B-DB301E4818B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3A4CED-B511-421D-932F-518AB670E3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3A4CED-B511-421D-932F-518AB670E3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3A4CED-B511-421D-932F-518AB670E3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3A4CED-B511-421D-932F-518AB670E3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7F9203-54EA-4AA4-B4F5-21784CE4EE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7F9203-54EA-4AA4-B4F5-21784CE4EE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7F9203-54EA-4AA4-B4F5-21784CE4EE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7F9203-54EA-4AA4-B4F5-21784CE4EE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41E8BEF-714C-4D19-A26B-DB301E4818B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41E8BEF-714C-4D19-A26B-DB301E4818B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41E8BEF-714C-4D19-A26B-DB301E4818B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41E8BEF-714C-4D19-A26B-DB301E4818B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306CC945-28A2-4A66-B91A-68F71008D708}
+	EndGlobalSection
+EndGlobal
